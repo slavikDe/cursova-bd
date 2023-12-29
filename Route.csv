@@ -1,0 +1,1001 @@
+id,StartAddress,FinishAddress,Distance,EstimatedTime
+1,1 Corben Crossing,976 Eliot Park,33.7,12:41 PM
+2,78188 5th Drive,0002 Maywood Park,55.4,2:13 AM
+3,5 Green Ridge Junction,5 Harbort Lane,36.8,11:52 PM
+4,59638 Summerview Park,01226 Muir Plaza,31.8,3:17 AM
+5,2 Glendale Circle,69957 Cambridge Terrace,11.2,3:00 PM
+6,08 Lighthouse Bay Trail,238 Mosinee Terrace,26.8,7:52 AM
+7,092 Prentice Lane,51 Glendale Lane,40.7,12:34 AM
+8,9 Debs Trail,4 Maple Wood Alley,62.5,12:22 PM
+9,976 Melby Drive,130 Claremont Drive,21.4,3:51 PM
+10,37364 Hoffman Trail,32 Hansons Way,39.7,3:58 PM
+11,3855 High Crossing Parkway,4 Di Loreto Terrace,69.7,6:24 PM
+12,291 Crescent Oaks Court,7 Ilene Point,29.3,10:13 PM
+13,208 Doe Crossing Point,54211 Debra Junction,7.3,7:58 PM
+14,9319 Gateway Road,630 Sunfield Junction,44.9,9:06 PM
+15,778 Calypso Street,853 Spohn Plaza,64.9,2:31 AM
+16,46 Corry Terrace,2902 Buena Vista Junction,11.8,5:06 PM
+17,2241 Shasta Pass,939 South Terrace,45.7,12:00 PM
+18,2815 Melrose Alley,9615 Bowman Park,79.7,1:43 PM
+19,20493 Pankratz Court,83 Mayer Alley,52.1,12:09 PM
+20,628 Barby Drive,27 Anhalt Crossing,53.5,9:51 PM
+21,0 Park Meadow Pass,724 North Lane,18.8,6:27 PM
+22,55 Scofield Alley,442 Coolidge Junction,41.5,5:00 AM
+23,9 Briar Crest Plaza,64 Gina Point,8.2,3:13 AM
+24,7 Hagan Way,4 Village Green Plaza,45.6,6:54 PM
+25,8462 Warrior Circle,2364 Randy Parkway,3.2,6:36 PM
+26,8004 Merry Alley,83 Memorial Point,28.9,1:50 AM
+27,536 Barby Trail,47749 Boyd Plaza,72.2,10:12 PM
+28,80312 Rowland Circle,7 Lakewood Parkway,9.6,1:49 PM
+29,84 Hayes Drive,728 Warner Point,68.6,12:10 AM
+30,102 Veith Trail,91 Shelley Way,66.1,6:33 PM
+31,96012 Thierer Lane,980 Mayer Plaza,36.1,1:53 AM
+32,12 Charing Cross Street,85553 Fair Oaks Street,44.3,6:27 AM
+33,3 Anthes Pass,65639 Glacier Hill Place,14.0,5:07 AM
+34,8985 Jenna Lane,44856 Schlimgen Crossing,11.1,3:55 AM
+35,68 Del Mar Junction,9514 Lillian Court,46.8,8:00 PM
+36,38750 Laurel Pass,711 Evergreen Road,35.2,12:13 PM
+37,8772 Rusk Hill,38060 Judy Junction,84.7,7:09 PM
+38,0 Clyde Gallagher Plaza,744 Evergreen Circle,24.9,6:18 PM
+39,4760 Browning Court,658 Ohio Park,79.8,12:10 AM
+40,897 Almo Park,89 Thompson Terrace,39.4,8:37 PM
+41,9 Ilene Street,26824 Veith Trail,36.3,11:37 PM
+42,7253 American Pass,58613 Cardinal Park,36.2,7:07 AM
+43,78 Northridge Circle,2 Maple Plaza,29.7,7:27 AM
+44,9802 Del Sol Crossing,64743 Transport Pass,9.1,12:32 PM
+45,7368 Novick Point,449 Forest Dale Avenue,71.7,5:08 AM
+46,723 Merrick Pass,5 Bartillon Terrace,13.4,12:37 PM
+47,690 Cardinal Point,52 Elka Trail,33.9,1:38 AM
+48,063 Lawn Circle,1 Miller Lane,65.6,10:58 PM
+49,27 Kedzie Point,478 Rowland Street,66.2,1:32 AM
+50,67821 Summit Avenue,4 Sommers Plaza,30.4,4:33 AM
+51,95308 Lakewood Gardens Court,494 Monument Terrace,61.1,11:44 AM
+52,252 Eastlawn Drive,5 Waubesa Way,59.7,6:08 PM
+53,4007 Ronald Regan Road,2 Gulseth Plaza,15.2,9:45 PM
+54,96707 Holmberg Alley,2757 Green Junction,81.8,12:53 PM
+55,6 Crest Line Alley,12 Lyons Parkway,68.7,8:46 PM
+56,54 Spohn Junction,2 Sauthoff Avenue,65.0,3:21 PM
+57,6268 Sage Circle,30744 Riverside Point,56.5,10:54 PM
+58,746 Golf Terrace,77 Atwood Place,16.1,7:43 PM
+59,981 Bartillon Point,122 Rigney Plaza,23.7,9:38 AM
+60,296 Kinsman Alley,0 South Pass,31.4,5:49 PM
+61,980 7th Lane,10463 Dorton Circle,53.3,2:28 AM
+62,0 Mockingbird Avenue,7 8th Park,69.1,7:42 PM
+63,9 Elgar Parkway,554 Comanche Center,71.6,5:55 AM
+64,6 International Street,2284 Algoma Pass,57.4,3:04 AM
+65,64 Daystar Place,54859 Springview Road,19.9,11:09 AM
+66,3 Veith Junction,040 Redwing Point,60.7,9:10 AM
+67,2968 Fairfield Trail,6174 Waubesa Court,49.7,10:56 PM
+68,0580 Buhler Trail,8083 Bluejay Avenue,65.5,7:17 PM
+69,2118 Haas Pass,33873 Eastlawn Court,60.8,8:44 PM
+70,5802 Monica Drive,53 Meadow Ridge Court,21.5,10:14 PM
+71,0603 Ridgeway Way,24 Becker Street,53.0,2:30 AM
+72,691 Spaight Alley,283 Hauk Drive,53.0,6:38 PM
+73,9 Dexter Trail,456 Springs Avenue,55.3,11:45 AM
+74,88 Hauk Circle,0 Mcguire Drive,24.7,12:50 AM
+75,6701 Steensland Hill,00 Fordem Center,75.3,1:41 PM
+76,3 Judy Crossing,00 Northfield Way,76.5,4:13 AM
+77,67 Johnson Way,5023 Mcbride Avenue,73.0,5:57 PM
+78,7 Toban Crossing,89 Pepper Wood Court,81.1,8:35 AM
+79,681 Pennsylvania Avenue,68 Crowley Pass,42.9,7:24 AM
+80,97 Mifflin Center,9 Union Pass,6.9,1:53 PM
+81,3605 Basil Lane,7270 Shasta Point,44.6,12:21 PM
+82,27 Dexter Trail,7429 Farmco Way,23.3,11:09 PM
+83,203 Artisan Hill,8 Sherman Street,8.6,4:53 PM
+84,6775 Northwestern Street,4 Jackson Lane,28.7,11:35 PM
+85,37670 Sunnyside Street,140 Katie Parkway,76.4,12:59 AM
+86,2825 Eagle Crest Place,5305 Union Point,16.7,1:53 AM
+87,5 Sunbrook Street,7 Maywood Plaza,30.4,4:18 PM
+88,393 Buena Vista Court,53814 Green Street,10.1,3:48 AM
+89,875 Derek Way,13 Westerfield Trail,9.1,9:11 AM
+90,26 Hauk Hill,50251 Di Loreto Parkway,54.1,3:27 PM
+91,77196 Almo Junction,1 Myrtle Circle,10.5,1:35 AM
+92,2236 Redwing Alley,133 Village Green Plaza,28.7,11:41 AM
+93,47 Waywood Drive,5 Anderson Terrace,62.3,6:32 AM
+94,4 Melvin Center,6388 Summit Avenue,37.9,7:18 AM
+95,1 South Plaza,0 Green Ridge Drive,8.4,1:12 PM
+96,02 Coolidge Court,21162 Killdeer Avenue,71.1,4:27 AM
+97,396 Debs Lane,925 Iowa Point,61.3,9:32 PM
+98,2 Hudson Road,4392 Sachtjen Lane,44.4,6:28 AM
+99,40794 Harbort Road,974 Corscot Lane,18.7,7:37 AM
+100,52 Dawn Road,49 Arapahoe Street,66.4,9:14 PM
+101,35284 Graedel Avenue,93646 Pierstorff Alley,73.1,8:27 PM
+102,60089 East Avenue,32 Miller Trail,6.8,2:52 AM
+103,0 Bartillon Court,314 Talisman Parkway,63.2,10:59 AM
+104,38 Drewry Point,5466 Erie Junction,58.5,6:51 PM
+105,33618 Old Gate Pass,618 Green Place,23.7,11:12 AM
+106,503 Helena Trail,06995 Bellgrove Court,29.5,2:35 AM
+107,3 Clemons Street,2 Lakewood Center,35.3,11:32 PM
+108,8 Waywood Parkway,6503 Scott Hill,40.8,3:46 PM
+109,1 Little Fleur Hill,7 Mallard Hill,78.7,5:28 AM
+110,94839 Clove Place,1 Moland Parkway,74.2,8:14 PM
+111,8 Debs Avenue,8254 Nevada Lane,84.5,2:55 AM
+112,90555 Ramsey Point,76 Welch Street,41.6,7:52 PM
+113,76599 Twin Pines Trail,893 New Castle Way,11.0,11:41 AM
+114,8364 Ludington Point,45368 Mifflin Pass,68.7,4:00 PM
+115,9803 Barnett Circle,43069 Crest Line Road,67.3,7:55 AM
+116,712 Mayfield Pass,08943 Calypso Center,78.7,11:19 PM
+117,96213 Vahlen Hill,37851 Susan Circle,55.7,6:24 PM
+118,5483 Orin Drive,5 Melrose Center,21.8,2:04 AM
+119,03358 Claremont Place,6 Delladonna Parkway,57.0,3:47 PM
+120,0 Hoffman Center,31284 Annamark Junction,40.8,6:31 AM
+121,4 Golf Course Avenue,272 Canary Drive,76.1,8:50 PM
+122,6991 Walton Parkway,70 Atwood Terrace,49.9,6:39 AM
+123,6 Ramsey Plaza,3 Porter Circle,33.1,11:16 AM
+124,03073 Lakewood Place,704 Kings Way,4.4,1:15 AM
+125,6 Express Place,9 Schlimgen Street,36.0,2:09 AM
+126,6 Lukken Park,28 Novick Street,78.4,2:17 PM
+127,4 Kingsford Avenue,78486 Maple Alley,2.1,12:02 PM
+128,5720 Morning Junction,617 Washington Pass,78.9,8:30 PM
+129,9958 Darwin Terrace,6 Heffernan Parkway,84.9,11:12 PM
+130,0977 Browning Point,9748 Buell Junction,23.1,7:10 AM
+131,48 Amoth Circle,73407 Drewry Pass,20.1,9:53 AM
+132,4705 Bartillon Terrace,3441 Service Pass,36.0,5:48 AM
+133,2312 Claremont Lane,1974 Buell Park,66.4,9:32 PM
+134,09886 Almo Place,38 Dayton Street,5.8,12:11 AM
+135,2607 Ilene Pass,23 Muir Place,2.0,8:29 PM
+136,1 Morningstar Court,5620 Algoma Avenue,37.1,12:20 PM
+137,8 Mandrake Parkway,96693 Golden Leaf Lane,21.3,5:03 AM
+138,2 Bobwhite Circle,39 Arrowood Parkway,8.1,6:43 PM
+139,719 Lyons Alley,489 Calypso Hill,30.6,11:37 PM
+140,1 Fisk Plaza,62 John Wall Hill,17.0,7:02 AM
+141,82741 Tennyson Lane,27626 Cherokee Court,28.6,9:58 PM
+142,679 Lindbergh Point,80 Hauk Parkway,24.3,4:22 AM
+143,45984 Northport Center,47148 Dwight Circle,47.4,6:12 AM
+144,70 Commercial Place,93 Parkside Center,5.0,11:53 AM
+145,1983 Mccormick Street,20693 Dexter Way,21.5,9:37 AM
+146,965 Vera Point,93 Buhler Alley,34.7,2:38 AM
+147,95 Carberry Plaza,447 Meadow Valley Plaza,12.4,3:47 AM
+148,3 Carberry Alley,3 Lakeland Junction,14.5,2:24 AM
+149,5087 Melrose Alley,8 Weeping Birch Parkway,63.2,7:26 AM
+150,82547 Loftsgordon Place,4 Acker Place,35.0,8:49 AM
+151,8 Dottie Pass,979 Darwin Court,56.0,3:37 PM
+152,6356 International Junction,2526 Schiller Drive,52.7,12:42 PM
+153,679 Graceland Junction,5 Ridge Oak Point,78.7,3:15 AM
+154,935 8th Crossing,73 Shelley Point,46.9,9:03 PM
+155,44711 Delaware Alley,6 Summerview Avenue,60.1,1:26 PM
+156,71 Mosinee Alley,482 Sheridan Plaza,56.1,7:51 PM
+157,703 Arrowood Lane,8886 Trailsway Trail,51.4,2:30 PM
+158,06956 Prairieview Place,5 Oakridge Place,55.0,4:54 PM
+159,26856 Tennyson Center,189 Eggendart Avenue,9.6,8:41 AM
+160,389 Clove Road,925 Porter Center,52.9,7:08 AM
+161,103 Florence Way,4536 Mifflin Street,3.3,12:23 AM
+162,3006 Di Loreto Plaza,1968 Dayton Lane,60.1,11:57 PM
+163,8773 Vidon Lane,3175 Golf Course Trail,37.0,9:01 AM
+164,962 Main Park,80717 Tennessee Plaza,58.7,2:10 PM
+165,3 Sutherland Park,208 Crownhardt Pass,68.5,12:12 PM
+166,044 Forest Lane,5848 Loomis Way,70.5,3:33 AM
+167,33987 Novick Way,37 Armistice Place,45.9,9:20 PM
+168,03 Norway Maple Trail,0 Ridge Oak Alley,66.4,10:38 PM
+169,59974 Loomis Road,6 Division Lane,74.3,3:58 PM
+170,9894 Russell Crossing,77745 Fairfield Place,73.4,10:26 PM
+171,10623 Forest Dale Way,58465 Michigan Avenue,40.2,3:43 AM
+172,73639 Hazelcrest Pass,54273 Bartelt Court,46.2,3:21 PM
+173,97 Namekagon Road,504 Karstens Hill,52.4,2:18 AM
+174,844 Moland Park,8748 Eliot Center,71.4,8:29 PM
+175,36354 Basil Trail,9969 Westerfield Park,8.4,5:54 PM
+176,20874 Burrows Pass,644 Sullivan Point,15.1,5:14 AM
+177,87061 Main Drive,07766 Grayhawk Alley,70.0,7:13 AM
+178,8221 Anhalt Drive,5756 Stoughton Avenue,58.7,4:30 AM
+179,465 Hallows Court,024 Anderson Park,69.8,11:48 PM
+180,3 Muir Pass,77775 Straubel Drive,30.2,5:28 AM
+181,43 Hauk Terrace,82 Ridgeview Road,81.8,11:02 AM
+182,0 Northland Center,0 Union Alley,58.6,7:43 PM
+183,10786 Dottie Place,93508 Blackbird Junction,27.2,3:10 PM
+184,48865 Hanover Crossing,57 Starling Road,39.5,12:37 PM
+185,07835 3rd Park,53215 Carioca Lane,6.7,11:22 AM
+186,5 Ohio Court,0044 Fulton Trail,25.4,6:44 AM
+187,6 3rd Junction,15 Susan Park,46.5,7:58 PM
+188,49216 Hazelcrest Junction,6 Atwood Hill,28.5,2:24 PM
+189,21638 Oneill Park,6331 Rieder Terrace,35.7,7:30 PM
+190,4 Moland Junction,39 Fairview Alley,17.1,11:05 AM
+191,1988 Nova Hill,7087 Crownhardt Junction,2.2,2:39 PM
+192,4523 Bashford Parkway,86577 Mosinee Plaza,79.3,6:37 PM
+193,037 Scoville Alley,28 Mosinee Center,43.4,7:53 AM
+194,0 Amoth Place,5673 Transport Drive,20.1,12:22 AM
+195,55 Pond Way,7 Weeping Birch Point,13.8,2:56 PM
+196,75938 Hazelcrest Avenue,59973 Lerdahl Plaza,53.6,2:37 PM
+197,017 Riverside Plaza,52 Hansons Park,56.8,8:00 AM
+198,34830 2nd Avenue,99 Stuart Trail,26.1,6:35 AM
+199,894 Park Meadow Junction,43 Dexter Lane,24.7,7:40 AM
+200,68056 Crescent Oaks Trail,66 Dakota Lane,41.4,4:11 PM
+201,6 Carey Center,17 Luster Junction,64.2,8:49 AM
+202,9 Arkansas Drive,4172 Mayer Road,40.8,12:40 PM
+203,427 Ludington Point,3696 Esker Junction,39.1,6:39 PM
+204,41 Lukken Center,9 Marquette Drive,36.0,10:56 PM
+205,21938 Merry Terrace,54 Eastlawn Court,31.6,4:09 PM
+206,40352 International Point,3336 Cardinal Alley,25.3,3:08 AM
+207,24110 Straubel Crossing,379 American Way,15.7,12:36 AM
+208,915 Westerfield Junction,809 Lillian Drive,76.0,5:27 PM
+209,0 Lakewood Junction,6978 Hanover Terrace,19.4,6:45 AM
+210,3517 Spaight Point,27564 8th Point,53.0,3:21 PM
+211,310 Moulton Court,0706 Magdeline Parkway,32.4,5:11 PM
+212,5137 Mallory Plaza,14 Acker Place,35.6,5:31 AM
+213,01 Schurz Parkway,104 Park Meadow Park,12.0,4:14 AM
+214,5 Shelley Point,64033 Waxwing Crossing,67.3,4:13 PM
+215,9 Packers Park,0472 Grasskamp Park,28.7,8:38 PM
+216,7925 Bellgrove Trail,680 Oriole Court,9.0,4:31 AM
+217,41878 Erie Terrace,2143 Merrick Circle,8.4,9:06 AM
+218,61 Crescent Oaks Court,146 Corscot Alley,49.4,10:03 PM
+219,81 Pierstorff Parkway,00 Dawn Pass,49.5,4:36 AM
+220,4 Pleasure Terrace,7 Straubel Terrace,60.3,3:02 PM
+221,56 Linden Road,0 Bultman Center,48.3,9:17 AM
+222,8062 Charing Cross Circle,07026 Anhalt Circle,37.0,2:13 AM
+223,0 Clemons Avenue,46937 Grasskamp Junction,39.9,8:58 PM
+224,9 Buena Vista Plaza,553 Kipling Crossing,61.0,2:43 AM
+225,23 Gale Crossing,317 Red Cloud Lane,68.2,2:39 PM
+226,75 Thierer Parkway,97 Red Cloud Center,83.4,12:36 AM
+227,31 Old Gate Avenue,12639 Veith Crossing,47.4,12:32 AM
+228,34 Loeprich Trail,04766 Meadow Valley Court,29.5,11:17 PM
+229,5935 Farwell Place,26247 Miller Pass,57.4,5:41 PM
+230,63947 Dawn Terrace,247 Lien Avenue,46.2,10:38 PM
+231,54 Darwin Drive,00 Westerfield Center,50.8,7:26 PM
+232,6 Rutledge Drive,0 Duke Avenue,28.3,9:56 AM
+233,06 Maryland Pass,5844 Kings Center,45.1,4:31 AM
+234,6 Roxbury Trail,8685 Bunker Hill Terrace,70.4,2:24 PM
+235,618 Center Court,4 Tony Trail,31.9,11:17 PM
+236,36796 North Road,68 Meadow Vale Way,52.6,3:05 AM
+237,78 Hanover Road,11620 Coleman Point,71.4,7:08 AM
+238,9475 La Follette Drive,7 Erie Alley,5.0,10:10 AM
+239,13946 Knutson Circle,5 Hudson Point,71.9,4:31 AM
+240,32 Alpine Alley,689 Eliot Hill,45.8,12:10 AM
+241,8482 Carioca Junction,446 Coleman Circle,33.0,8:51 PM
+242,27046 Monterey Place,257 Riverside Park,73.6,12:48 PM
+243,738 Artisan Crossing,761 Sunbrook Park,15.3,2:53 AM
+244,621 7th Trail,3334 Summerview Point,74.7,5:19 AM
+245,19246 Saint Paul Crossing,39 Hermina Hill,41.0,10:27 AM
+246,3 Gerald Street,351 Dawn Alley,11.2,9:45 PM
+247,663 Redwing Pass,8190 Evergreen Lane,47.8,11:16 PM
+248,4 Goodland Alley,0107 Union Plaza,75.3,10:53 AM
+249,1124 Springs Crossing,95 Messerschmidt Place,62.0,11:51 AM
+250,93 Muir Terrace,83 2nd Junction,80.9,12:13 AM
+251,71573 Monterey Point,601 Ruskin Junction,73.2,6:36 AM
+252,78923 Clarendon Road,94 Morrow Place,13.4,8:57 PM
+253,20118 Melvin Junction,953 Darwin Lane,43.3,1:55 PM
+254,389 Annamark Circle,04 Independence Junction,47.6,11:01 PM
+255,63533 Schmedeman Terrace,0165 Commercial Alley,23.4,5:58 PM
+256,81 Sommers Point,1097 Carberry Avenue,20.2,2:14 PM
+257,5365 Holy Cross Parkway,273 Killdeer Drive,52.0,9:11 AM
+258,0 Johnson Crossing,030 Elgar Court,7.1,8:21 AM
+259,60738 Waywood Park,215 Memorial Lane,33.9,11:23 PM
+260,569 Westend Pass,75065 Green Place,76.0,6:38 AM
+261,58099 Moulton Place,88 Mendota Center,61.5,5:19 AM
+262,05582 Village Green Street,701 Oriole Crossing,41.3,11:47 PM
+263,7551 Vahlen Point,0 Stephen Terrace,37.1,1:38 PM
+264,240 Union Pass,471 Petterle Center,16.9,9:12 AM
+265,35 Sloan Circle,323 Aberg Alley,76.1,2:46 AM
+266,67479 Cascade Circle,25861 Victoria Lane,34.2,8:28 AM
+267,12995 Lillian Trail,9767 Talisman Road,83.8,12:22 PM
+268,829 Carberry Drive,26950 Londonderry Point,31.2,9:54 PM
+269,1518 Raven Drive,93503 Sunnyside Court,60.8,8:46 AM
+270,5 Arrowood Way,827 Hanson Junction,68.3,11:13 PM
+271,143 Buena Vista Circle,74 Monica Way,27.3,9:32 PM
+272,32 Killdeer Avenue,08 Gale Junction,54.5,5:50 AM
+273,1710 Montana Alley,965 Valley Edge Street,61.8,8:54 PM
+274,2430 Derek Court,97495 Crescent Oaks Trail,15.1,1:00 PM
+275,85 Marquette Park,59535 Troy Crossing,14.9,3:21 AM
+276,8 Fremont Court,28 Manley Place,11.2,10:51 AM
+277,03 Raven Hill,73952 Prentice Court,83.6,6:25 AM
+278,9 Cascade Alley,881 Independence Pass,4.9,7:47 PM
+279,672 Clemons Avenue,26 Rusk Crossing,42.2,5:18 PM
+280,60374 Warrior Terrace,4897 Onsgard Hill,66.8,7:10 AM
+281,3730 Hoepker Terrace,590 Farragut Way,2.3,7:40 AM
+282,3 Morrow Road,1 Mallard Terrace,66.2,1:58 AM
+283,9937 Forster Road,6 Debs Pass,23.5,10:53 AM
+284,4 Little Fleur Hill,9698 Rieder Place,69.4,8:34 AM
+285,9 Coolidge Way,91 Union Street,6.9,11:13 AM
+286,6 Morrow Plaza,98 Eastlawn Way,18.5,4:16 AM
+287,14 Meadow Valley Hill,40411 Stuart Street,35.0,11:24 AM
+288,937 Twin Pines Center,810 Green Ridge Drive,11.5,1:09 PM
+289,4470 Butterfield Trail,4411 Hanover Court,77.1,6:49 PM
+290,9136 Derek Avenue,58 Coolidge Avenue,82.9,8:29 PM
+291,4419 Hansons Way,08 Lake View Circle,29.1,4:20 PM
+292,3 Forest Run Street,79437 Rigney Crossing,49.7,2:56 AM
+293,525 Butternut Road,422 Warner Road,79.1,6:44 AM
+294,551 3rd Trail,5761 Gale Parkway,53.6,12:37 PM
+295,19760 Lake View Alley,8 Fuller Junction,3.2,7:22 AM
+296,5856 Anthes Hill,51 Springs Hill,81.4,7:34 PM
+297,0075 Burning Wood Crossing,675 Northridge Terrace,65.5,8:45 AM
+298,3387 Spaight Pass,6 Granby Court,38.9,1:27 AM
+299,100 Talmadge Drive,216 Drewry Center,2.4,12:10 PM
+300,00 Fuller Hill,7 Morning Circle,13.8,5:25 AM
+301,55599 Larry Crossing,99298 Kinsman Terrace,44.8,3:20 AM
+302,2 Riverside Alley,33 Troy Alley,38.2,10:07 PM
+303,20061 Stang Lane,105 Fallview Park,58.1,2:00 AM
+304,07447 Harper Center,45017 Center Lane,18.8,6:51 AM
+305,483 Lindbergh Place,82143 Marcy Terrace,20.3,5:23 PM
+306,71264 Knutson Hill,58083 Kennedy Alley,51.6,9:51 PM
+307,33638 Division Court,40640 Pennsylvania Center,18.4,12:18 PM
+308,4664 High Crossing Crossing,13 Vera Parkway,67.5,5:47 AM
+309,7428 Buell Alley,052 Coolidge Parkway,53.8,9:26 PM
+310,4858 Mallory Center,39031 Red Cloud Street,16.5,4:34 AM
+311,2 Reinke Terrace,57 Blue Bill Park Alley,71.1,6:56 AM
+312,2 Magdeline Trail,5422 Bartelt Center,41.2,2:09 PM
+313,3411 Trailsway Lane,041 Dayton Lane,47.9,2:27 AM
+314,1336 Meadow Valley Parkway,7252 Schiller Lane,13.5,10:37 PM
+315,68 Morning Junction,41702 Arkansas Trail,72.4,5:10 PM
+316,78 Corscot Junction,84742 Sunfield Terrace,80.8,4:29 PM
+317,2234 Duke Place,24990 Loomis Park,59.9,8:31 AM
+318,535 Gateway Parkway,6 Eagle Crest Center,79.0,3:48 AM
+319,18467 Hintze Drive,8 Prentice Junction,84.8,4:31 AM
+320,77 Anniversary Street,90 Nobel Street,76.3,10:25 PM
+321,83 Florence Trail,57734 Arkansas Place,26.7,4:18 AM
+322,06766 Blaine Junction,54 Esker Road,20.6,12:04 AM
+323,76 Golf Point,36 Rigney Park,61.8,5:12 PM
+324,18639 Susan Trail,1842 Sunfield Plaza,71.9,4:25 PM
+325,32922 Kipling Street,4757 Dayton Street,72.8,11:32 PM
+326,62 Brown Court,215 3rd Trail,37.2,7:12 AM
+327,6 Sugar Parkway,8 Dorton Drive,72.4,4:40 AM
+328,842 Chive Avenue,7954 Hintze Road,52.5,4:12 PM
+329,7068 Esker Junction,0267 Haas Drive,34.3,8:36 AM
+330,02969 Pine View Crossing,27317 Vermont Alley,60.2,6:53 AM
+331,80998 Schiller Junction,0787 Gulseth Way,47.7,11:07 AM
+332,909 Hallows Center,3 Bowman Place,62.8,6:41 AM
+333,15 Mendota Pass,62 Wayridge Crossing,7.8,4:57 AM
+334,7300 Algoma Alley,54770 Fieldstone Circle,19.5,6:21 AM
+335,9225 Cody Trail,93 Hayes Trail,59.0,1:40 PM
+336,8855 Spenser Point,772 Center Street,11.0,6:43 PM
+337,51926 Golden Leaf Pass,0 Northridge Lane,63.0,5:12 AM
+338,175 Eggendart Drive,89 Rockefeller Parkway,57.8,7:47 AM
+339,5230 Carey Point,173 Quincy Lane,48.6,4:17 AM
+340,28917 Gateway Center,759 Straubel Drive,46.8,12:43 PM
+341,67481 South Pass,27786 New Castle Plaza,3.4,3:44 PM
+342,534 Dahle Junction,14 Prentice Drive,30.4,1:14 PM
+343,5 Raven Trail,2 Colorado Junction,4.1,1:18 PM
+344,13697 Fisk Trail,96 Crowley Parkway,72.9,5:59 AM
+345,66 Rockefeller Terrace,780 Hintze Point,12.1,5:35 AM
+346,377 Village Street,48729 Forest Run Center,41.0,6:55 AM
+347,46 Green Ridge Park,919 Sutteridge Lane,49.9,9:56 PM
+348,05 Beilfuss Road,5888 Melrose Terrace,61.6,10:02 PM
+349,491 Judy Street,178 Killdeer Crossing,73.0,1:45 AM
+350,02620 Annamark Road,7 Claremont Crossing,2.1,6:25 PM
+351,30497 Toban Junction,5527 Springs Plaza,26.9,11:26 AM
+352,9505 Sloan Park,7244 Becker Parkway,57.8,6:24 PM
+353,411 Linden Parkway,87275 Pawling Trail,44.2,8:45 AM
+354,8592 Grover Center,00311 Harper Lane,5.4,1:19 AM
+355,95 Hauk Park,61997 Waxwing Court,82.3,9:58 PM
+356,69382 Holy Cross Plaza,6 Linden Drive,10.3,1:07 PM
+357,578 Onsgard Court,484 3rd Place,48.4,6:21 PM
+358,69820 Morrow Circle,747 Forest Run Lane,27.1,11:57 AM
+359,49 Westridge Avenue,96261 Barby Circle,35.0,5:30 PM
+360,9737 Granby Center,12 Lake View Plaza,20.2,2:52 PM
+361,2992 Briar Crest Point,7538 Northfield Park,9.5,6:48 AM
+362,5 Bartillon Plaza,7497 Shelley Terrace,44.1,3:05 AM
+363,27898 Clemons Drive,3556 Sommers Park,24.8,5:09 PM
+364,97 Eastwood Way,45882 Nobel Trail,71.1,11:32 AM
+365,798 Moland Court,1 Meadow Valley Place,65.0,1:53 PM
+366,492 Troy Park,89649 Jana Lane,12.3,6:14 AM
+367,488 Jenna Road,74441 Longview Circle,62.1,1:06 PM
+368,7596 Maple Terrace,866 Dennis Court,32.4,2:58 AM
+369,540 Meadow Valley Point,6632 Ludington Alley,57.6,6:31 PM
+370,8 Bay Parkway,65 Mockingbird Hill,8.3,4:36 PM
+371,9 Sachs Center,54415 Lillian Point,23.2,7:07 AM
+372,019 Buhler Terrace,085 Upham Hill,72.4,9:23 PM
+373,75 Brown Avenue,210 Granby Plaza,60.8,4:03 PM
+374,3 Washington Way,82 Sullivan Road,83.4,3:33 PM
+375,300 Grayhawk Road,5 Sheridan Plaza,71.0,3:55 PM
+376,647 Esker Crossing,1276 Towne Court,23.1,8:42 PM
+377,59 Menomonie Hill,3 Golf View Park,31.0,4:16 PM
+378,8929 Ludington Trail,667 Evergreen Point,49.7,4:28 AM
+379,59774 Bartillon Plaza,9505 Longview Plaza,9.9,2:21 AM
+380,0 Maple Wood Trail,742 Erie Hill,17.7,2:08 AM
+381,770 Delaware Place,2 Transport Circle,45.7,2:10 PM
+382,7935 Kingsford Parkway,8573 Carpenter Point,62.0,7:34 PM
+383,3 Truax Park,9405 Oxford Junction,18.4,3:53 AM
+384,27 Cody Parkway,79480 Corscot Street,62.2,12:13 AM
+385,51374 Roth Hill,4191 Mayer Plaza,56.9,10:34 AM
+386,533 Alpine Trail,44388 Merrick Alley,46.6,1:02 PM
+387,66833 Esker Place,70051 Longview Parkway,65.3,2:43 AM
+388,299 Hoffman Parkway,49 Tennessee Crossing,83.0,5:04 AM
+389,4 Onsgard Pass,98933 Cascade Park,24.9,4:31 AM
+390,5608 6th Center,52 Melby Point,30.6,8:26 PM
+391,73 Meadow Vale Point,653 Oakridge Road,24.4,2:15 AM
+392,79237 Eggendart Parkway,468 7th Lane,48.6,2:19 AM
+393,58582 Grim Court,71800 Northwestern Place,49.4,2:13 AM
+394,99 Ridgeway Junction,6 Beilfuss Lane,42.7,12:50 AM
+395,181 Melrose Plaza,798 Harbort Drive,65.0,10:02 AM
+396,4131 Vermont Plaza,83040 Manufacturers Circle,69.7,11:16 AM
+397,4719 Carey Center,9 Maryland Alley,76.5,8:02 PM
+398,4 Kedzie Trail,0971 Village Way,40.8,3:28 AM
+399,743 Browning Circle,93 Summerview Parkway,14.6,2:01 PM
+400,371 Pepper Wood Trail,4821 Old Gate Park,39.9,9:31 AM
+401,69499 Johnson Junction,72499 Derek Lane,6.2,11:46 PM
+402,5152 Algoma Point,959 Maywood Court,58.9,12:41 PM
+403,8 Merchant Terrace,3 Reindahl Parkway,42.6,8:16 PM
+404,6949 Lyons Park,320 Elka Court,53.9,10:58 AM
+405,1 Reindahl Trail,37 Loomis Parkway,78.1,12:18 AM
+406,0992 Mallory Circle,5 Clyde Gallagher Court,68.5,2:29 PM
+407,6 Grayhawk Park,992 Sunnyside Park,37.6,12:03 PM
+408,3859 Shasta Drive,3254 Declaration Plaza,10.8,2:17 PM
+409,05 Susan Pass,367 2nd Street,57.3,12:10 PM
+410,704 Nevada Court,74 Huxley Lane,35.4,2:25 PM
+411,0653 Cody Street,605 Anniversary Road,26.4,10:04 AM
+412,5 Sachs Circle,95 Helena Hill,73.2,12:52 AM
+413,5260 Prentice Avenue,2 Dapin Street,61.3,7:38 PM
+414,44 Little Fleur Court,2 Cambridge Center,46.3,3:56 PM
+415,197 Raven Lane,80 Lillian Street,23.0,7:35 AM
+416,357 Arkansas Pass,133 Gateway Hill,26.9,2:32 AM
+417,48169 Clove Junction,24256 Old Gate Plaza,29.8,9:35 PM
+418,258 Knutson Hill,4082 Delladonna Drive,50.0,8:55 AM
+419,63892 Katie Junction,4 Mitchell Pass,61.0,4:02 AM
+420,5 Steensland Avenue,96 Helena Crossing,53.9,1:02 AM
+421,8 Pleasure Road,42242 Sycamore Junction,77.4,5:23 PM
+422,9426 Forster Lane,8840 School Trail,5.3,10:57 PM
+423,42866 Summit Point,89 Homewood Terrace,28.9,4:02 AM
+424,28298 Farmco Drive,11 Michigan Junction,64.0,4:17 AM
+425,879 International Point,19842 Hagan Park,49.8,11:23 AM
+426,89 Jenna Way,78 Summer Ridge Lane,32.5,10:50 AM
+427,22376 Bay Junction,405 Portage Park,73.3,12:19 AM
+428,32 Butterfield Circle,8168 Jana Crossing,61.4,7:49 AM
+429,576 Menomonie Alley,14 Farragut Parkway,55.9,8:25 AM
+430,1183 Mallard Park,66103 Lerdahl Hill,18.7,6:22 PM
+431,02576 Darwin Trail,35713 Nevada Road,40.8,12:17 AM
+432,9 Sutteridge Circle,24 Pond Lane,21.4,7:13 PM
+433,83832 Ryan Hill,5 Drewry Place,59.5,11:09 PM
+434,471 Hagan Terrace,99 Heath Plaza,15.8,4:06 AM
+435,87 Calypso Plaza,5 Jay Court,27.2,10:07 AM
+436,29859 Golden Leaf Point,4 Burning Wood Park,60.4,8:47 PM
+437,59 Sunbrook Pass,83 Sugar Plaza,2.6,5:09 AM
+438,9487 Clyde Gallagher Circle,43 Ridge Oak Avenue,40.4,5:36 AM
+439,5 Valley Edge Plaza,45130 Badeau Lane,60.1,12:24 PM
+440,8 Algoma Street,8186 Michigan Terrace,9.2,1:50 AM
+441,9084 7th Point,5 Pankratz Plaza,8.8,2:44 PM
+442,73301 Village Green Point,8 Anthes Parkway,20.4,7:01 PM
+443,5395 Springs Avenue,5 Brentwood Drive,55.1,1:59 AM
+444,5224 Texas Center,236 Arrowood Parkway,57.3,9:50 AM
+445,68521 Bultman Plaza,3 Dorton Street,68.7,11:06 PM
+446,08 Harbort Street,5482 Montana Park,81.1,8:37 PM
+447,2 Morrow Center,942 Dorton Point,63.9,4:28 PM
+448,409 Spaight Avenue,86915 Golf Course Road,39.9,6:07 AM
+449,13987 Hermina Hill,551 Grover Hill,67.4,4:57 PM
+450,95012 Grayhawk Trail,16 La Follette Terrace,47.6,6:28 PM
+451,95 Bartillon Place,0 Burrows Way,5.0,9:04 AM
+452,7088 Tony Lane,5179 Nevada Plaza,11.4,6:24 AM
+453,0174 Bartelt Terrace,167 Mockingbird Way,74.1,9:38 PM
+454,2799 Grayhawk Alley,4298 La Follette Point,46.8,1:03 PM
+455,99517 Burning Wood Trail,46 Grayhawk Circle,77.2,5:20 PM
+456,07 Susan Point,1 Iowa Center,32.1,11:28 PM
+457,1942 Kinsman Street,8539 Northport Court,2.4,6:14 PM
+458,112 Lerdahl Avenue,88 Melody Lane,77.5,10:43 PM
+459,06421 Graedel Parkway,81 Miller Park,44.7,5:56 PM
+460,71 Glacier Hill Junction,522 Hollow Ridge Road,65.3,11:23 AM
+461,39365 Claremont Pass,2 Barby Hill,65.4,11:02 PM
+462,1945 Graceland Park,1667 Quincy Pass,27.2,11:32 PM
+463,6 Fairfield Trail,31 Twin Pines Plaza,14.2,11:23 AM
+464,4 Ramsey Street,9128 Sherman Parkway,3.6,12:56 AM
+465,8 Calypso Crossing,12 Larry Pass,50.8,2:56 AM
+466,262 Forest Dale Avenue,80153 Fieldstone Plaza,45.3,5:49 PM
+467,55465 Nobel Center,04481 Gina Pass,77.3,7:16 AM
+468,089 Hermina Park,5 Anthes Park,35.0,6:14 PM
+469,28 Northwestern Way,4987 Kipling Avenue,65.8,2:10 PM
+470,254 Nelson Pass,8 Crescent Oaks Center,17.2,3:32 PM
+471,0436 Lindbergh Junction,72177 Bay Center,64.0,2:00 AM
+472,20698 Farwell Road,0726 Ohio Point,66.5,10:39 PM
+473,5838 Holmberg Plaza,94743 Montana Park,46.6,12:07 PM
+474,9252 Superior Junction,0 Prairie Rose Way,56.9,6:03 PM
+475,890 Cordelia Court,5 Northview Center,48.5,10:26 AM
+476,83558 East Alley,87 Spohn Place,79.3,7:52 AM
+477,6317 Evergreen Hill,46795 Dapin Alley,13.9,7:30 PM
+478,53 Cardinal Way,98 Badeau Crossing,72.9,10:37 AM
+479,17192 Saint Paul Park,1141 Cherokee Pass,24.5,6:43 AM
+480,0 Union Road,054 Almo Place,25.6,4:10 PM
+481,0 Autumn Leaf Pass,19772 Ridgeway Lane,41.1,6:19 PM
+482,947 Bayside Pass,1846 Packers Street,65.3,12:01 PM
+483,11097 Thierer Park,6703 8th Circle,74.6,10:18 PM
+484,1748 Lukken Avenue,2 South Pass,47.2,8:05 PM
+485,00853 Sycamore Crossing,4 Garrison Street,71.6,3:54 AM
+486,908 Merchant Point,84972 Hoffman Junction,58.5,8:01 PM
+487,10501 Lighthouse Bay Park,41368 Clemons Avenue,28.0,11:36 PM
+488,08375 Miller Lane,855 Bashford Place,17.3,1:42 AM
+489,1711 Blue Bill Park Lane,247 Commercial Street,18.2,11:35 AM
+490,6 Arrowood Drive,4477 Maywood Point,63.5,12:08 AM
+491,35 Hoard Alley,6 East Center,20.4,1:44 AM
+492,324 Rutledge Road,5 Norway Maple Drive,83.9,4:04 PM
+493,1 Anderson Parkway,787 Waywood Street,56.7,12:31 PM
+494,67890 Comanche Terrace,5276 Golf Road,5.7,9:26 PM
+495,4 Darwin Crossing,891 Lakewood Lane,44.8,12:42 AM
+496,46 Hanover Place,3905 Hovde Pass,49.7,7:23 PM
+497,4143 Parkside Alley,41553 Comanche Street,5.4,8:41 AM
+498,14 Lyons Parkway,8084 Brentwood Hill,41.7,11:53 AM
+499,77 Bluestem Lane,58 Waxwing Center,63.2,1:28 PM
+500,106 Kim Trail,525 Jay Lane,47.8,5:03 PM
+501,60 Harper Crossing,005 Reinke Terrace,63.7,6:29 PM
+502,44 Pleasure Court,039 Cascade Junction,38.2,8:59 AM
+503,873 Springview Park,9 Lerdahl Hill,19.2,10:08 AM
+504,46 Village Circle,20 Aberg Avenue,81.5,2:48 PM
+505,584 Garrison Lane,6231 Wayridge Junction,22.4,11:13 PM
+506,155 Springview Park,611 Charing Cross Point,72.3,9:46 PM
+507,556 Lukken Point,7206 Dovetail Alley,26.0,11:27 PM
+508,095 Huxley Pass,124 7th Parkway,4.0,2:25 AM
+509,30 Columbus Pass,65 Corry Junction,8.6,2:53 PM
+510,13111 Farwell Place,745 Hovde Alley,60.1,10:01 AM
+511,21722 Bellgrove Trail,1 Riverside Lane,31.1,4:58 PM
+512,838 Talmadge Point,82219 Victoria Pass,3.0,5:54 AM
+513,83 Spohn Drive,7511 Eliot Junction,38.4,3:49 PM
+514,1 Beilfuss Point,798 Ramsey Plaza,70.0,2:59 PM
+515,40 Steensland Avenue,07 Dapin Crossing,40.9,1:19 PM
+516,15 Pennsylvania Road,2318 Reindahl Circle,32.9,4:11 AM
+517,6147 Nancy Trail,83849 Graedel Way,19.3,10:44 PM
+518,73709 Hansons Point,64457 Warbler Parkway,52.9,6:11 AM
+519,5 Lawn Road,18 6th Parkway,82.9,9:19 PM
+520,0338 Schmedeman Parkway,8 Tennyson Terrace,10.8,12:50 AM
+521,1728 School Terrace,1210 Monument Street,70.3,2:08 AM
+522,8484 Towne Plaza,71590 Memorial Junction,84.7,6:58 AM
+523,05 Quincy Avenue,945 Mendota Drive,75.1,4:39 AM
+524,146 Autumn Leaf Parkway,35229 Meadow Valley Avenue,69.8,7:25 PM
+525,2788 Lakeland Road,4349 Beilfuss Terrace,14.8,1:16 PM
+526,9100 Everett Lane,4768 Thackeray Place,50.4,6:17 AM
+527,650 Northport Way,58503 Little Fleur Plaza,21.0,1:35 AM
+528,62910 Bashford Court,9 Sloan Drive,71.1,8:31 AM
+529,3 Southridge Trail,3720 Huxley Crossing,26.7,9:41 AM
+530,58174 Helena Street,82208 Nancy Pass,36.8,1:02 AM
+531,192 Lotheville Street,562 Garrison Crossing,34.2,7:05 AM
+532,4 Alpine Drive,9625 Acker Center,42.6,4:52 AM
+533,5 Lerdahl Junction,82 Rowland Crossing,32.7,1:35 AM
+534,817 Jenna Trail,450 Melby Junction,61.3,9:34 PM
+535,13612 5th Hill,4401 Sloan Park,12.5,1:26 PM
+536,123 Birchwood Court,7365 Stone Corner Hill,56.3,1:58 AM
+537,4 Luster Crossing,9244 Portage Lane,57.9,6:23 AM
+538,724 Longview Park,054 Packers Circle,60.9,1:15 AM
+539,19434 Loomis Circle,07 Shoshone Crossing,57.6,10:55 AM
+540,75103 Brentwood Plaza,63 Oak Valley Crossing,20.3,3:06 PM
+541,44644 Anniversary Street,6 Surrey Court,7.4,3:14 PM
+542,836 Linden Terrace,1600 East Avenue,84.9,2:28 PM
+543,54132 Evergreen Way,4938 Crest Line Street,60.0,3:36 AM
+544,0201 Annamark Center,69 Elka Crossing,66.2,6:58 PM
+545,1085 Mifflin Court,4 Sherman Parkway,73.3,2:05 AM
+546,9 Straubel Alley,3 Anniversary Pass,49.4,4:16 PM
+547,37436 Knutson Junction,4 Columbus Crossing,59.6,7:41 PM
+548,18 Superior Pass,0 Elgar Junction,45.2,2:11 AM
+549,50 Portage Street,5 Cardinal Center,48.6,9:40 AM
+550,1 Onsgard Drive,79 Stang Street,30.2,5:23 PM
+551,0690 Main Plaza,4714 Macpherson Circle,18.3,11:37 AM
+552,8724 Moulton Drive,6094 Atwood Lane,60.6,5:09 PM
+553,80 Crest Line Road,3194 Hudson Junction,12.9,3:45 AM
+554,723 Havey Lane,5 Mayfield Junction,57.3,11:29 AM
+555,84 Corscot Alley,3634 School Junction,22.3,6:12 PM
+556,47 Fair Oaks Alley,32 6th Road,74.0,1:02 AM
+557,67 Johnson Drive,386 Village Court,40.6,8:25 AM
+558,00 Jay Hill,7 Del Sol Parkway,31.6,10:47 AM
+559,514 Surrey Drive,33091 Spenser Park,8.2,6:33 PM
+560,520 Packers Crossing,954 Northland Junction,36.3,9:13 AM
+561,053 Lawn Pass,5 Grim Lane,72.7,4:00 AM
+562,4973 Bobwhite Way,046 Judy Drive,64.3,8:59 PM
+563,92 Melody Way,58803 Hooker Avenue,77.3,4:28 AM
+564,07 Ruskin Junction,8 Clarendon Park,53.7,3:12 PM
+565,7976 Utah Avenue,6 Dwight Lane,10.2,10:35 PM
+566,741 East Point,06 5th Avenue,7.0,12:00 PM
+567,83 Barnett Parkway,45 Ridgeway Hill,25.6,5:06 PM
+568,23 Daystar Alley,2553 Lillian Terrace,74.0,10:10 PM
+569,44357 Brown Drive,09605 Buena Vista Pass,16.4,7:07 AM
+570,3095 Mccormick Court,31401 Del Mar Street,83.3,4:17 PM
+571,152 Milwaukee Pass,442 Lakeland Circle,68.7,5:46 PM
+572,92576 Eagle Crest Lane,39 Fulton Circle,61.6,5:10 PM
+573,1 Knutson Avenue,1 Gerald Alley,25.8,12:06 PM
+574,5 Londonderry Hill,0504 Lien Lane,4.2,1:21 PM
+575,3754 Florence Place,90 Melody Plaza,79.6,12:54 AM
+576,556 Tennessee Hill,25868 Grover Park,82.2,11:39 AM
+577,5 Mallard Road,74 Express Park,38.7,6:04 AM
+578,9878 Mallory Plaza,27 Lake View Pass,61.4,1:02 AM
+579,22 Gateway Circle,004 Jenifer Street,5.4,8:37 AM
+580,575 Pawling Trail,63 Old Gate Crossing,80.4,8:21 AM
+581,46 Kipling Court,38 Prairie Rose Park,33.0,8:32 PM
+582,2876 Harbort Road,85578 Old Gate Point,26.6,2:57 AM
+583,916 Dovetail Plaza,140 Sommers Road,41.3,1:48 AM
+584,76831 Homewood Drive,411 Starling Court,48.6,8:08 AM
+585,6 Artisan Road,47025 Charing Cross Way,46.4,10:12 AM
+586,30 Reindahl Terrace,275 Lawn Point,32.6,2:14 PM
+587,8345 Ramsey Point,65857 Melrose Pass,30.3,10:21 PM
+588,512 Kipling Circle,6 North Alley,79.3,1:57 PM
+589,7150 Banding Lane,450 Kipling Lane,15.1,11:33 AM
+590,76316 Stang Junction,8848 Granby Terrace,67.2,12:33 PM
+591,59447 Blackbird Lane,3 Service Point,31.4,10:39 AM
+592,635 Dakota Court,1 Susan Way,27.5,12:54 AM
+593,1657 Basil Place,4487 Mccormick Drive,52.1,8:55 PM
+594,4250 Moland Alley,69780 Surrey Crossing,62.3,12:59 AM
+595,5 Sundown Park,90 Glendale Place,35.1,4:32 AM
+596,69 Montana Avenue,0 Erie Crossing,43.1,6:29 AM
+597,49349 Loomis Terrace,5557 Anthes Avenue,69.7,8:34 PM
+598,4 Corben Court,56660 Muir Avenue,51.5,12:31 AM
+599,4 Kropf Plaza,71473 Loftsgordon Junction,24.5,8:40 PM
+600,140 Golf View Point,50089 Warner Hill,65.1,6:34 PM
+601,21841 Marcy Street,74537 Banding Circle,22.4,4:06 PM
+602,4 Graedel Lane,94489 Ridge Oak Avenue,72.4,12:54 AM
+603,40561 Golf Course Plaza,0 Roth Alley,79.1,8:00 PM
+604,85903 Ridgeview Road,41 Artisan Place,76.5,7:18 AM
+605,58 Badeau Avenue,226 Hauk Alley,72.5,11:45 PM
+606,7 Menomonie Avenue,58 Monterey Center,14.4,10:47 AM
+607,63063 Forest Dale Court,648 Anhalt Way,45.8,7:51 AM
+608,93236 Rieder Pass,606 Express Park,44.3,6:47 PM
+609,03 Waywood Place,931 Crownhardt Junction,20.7,1:50 AM
+610,98 Bartillon Center,694 Bultman Circle,71.9,4:06 PM
+611,9 Talisman Trail,74286 Blaine Trail,13.9,10:39 PM
+612,1957 Morningstar Crossing,54106 Montana Drive,74.9,10:08 PM
+613,855 Manitowish Road,556 Coolidge Road,28.0,10:28 PM
+614,9 Lerdahl Alley,60526 Helena Center,21.3,11:33 AM
+615,94017 Kinsman Drive,99 Grover Trail,51.5,11:25 PM
+616,55521 Lerdahl Terrace,3 Dryden Terrace,16.0,10:06 PM
+617,4273 Gina Point,19 Packers Parkway,12.2,1:38 AM
+618,90610 Morrow Street,541 Bowman Junction,16.7,6:18 PM
+619,467 American Ash Place,32 Oak Valley Terrace,82.3,2:47 PM
+620,08 Pleasure Lane,895 Russell Road,39.9,10:13 PM
+621,038 Gateway Place,02013 Maple Alley,24.4,3:54 AM
+622,6875 Hanson Point,1 Canary Trail,77.5,2:50 PM
+623,5443 Little Fleur Trail,28 School Avenue,53.1,8:32 AM
+624,28090 6th Place,0 Hauk Place,69.1,8:51 AM
+625,7376 Longview Pass,5 Forest Park,27.7,10:51 AM
+626,43406 Colorado Crossing,9 Shoshone Circle,82.1,10:18 AM
+627,85 Anzinger Point,9852 Farmco Road,71.9,11:30 PM
+628,22 Old Gate Road,28501 Brickson Park Hill,5.7,12:45 PM
+629,11 Rockefeller Avenue,7 Fieldstone Crossing,15.1,1:20 AM
+630,81 Merrick Circle,351 Packers Street,60.3,11:28 PM
+631,0495 Elmside Parkway,33 Sommers Plaza,39.1,1:35 AM
+632,6 Gina Point,87 Sommers Parkway,63.8,9:59 AM
+633,93926 Rusk Court,7465 Burrows Place,2.1,7:38 PM
+634,9994 7th Hill,342 Sunnyside Lane,40.7,3:42 AM
+635,61 Badeau Avenue,6823 Lien Court,59.4,4:41 PM
+636,9233 Lukken Terrace,08074 Prentice Lane,34.1,12:33 PM
+637,18517 Bonner Place,38301 Homewood Court,18.1,10:46 PM
+638,20559 Logan Hill,2 Mockingbird Court,34.0,12:26 AM
+639,4836 Loomis Crossing,1032 Lighthouse Bay Circle,57.6,8:21 PM
+640,944 Bowman Street,7 Bartillon Trail,77.4,7:25 PM
+641,12340 Prairie Rose Road,390 Myrtle Pass,6.5,8:04 AM
+642,1863 Eastlawn Parkway,70957 Golf Drive,43.4,2:52 PM
+643,7 East Circle,65 North Pass,45.5,4:14 PM
+644,4501 Garrison Terrace,9 Mccormick Way,33.5,7:50 PM
+645,924 Valley Edge Crossing,9370 Atwood Crossing,2.9,8:21 PM
+646,2 Bartillon Avenue,0 Lien Alley,58.5,1:54 PM
+647,48 Macpherson Drive,9259 Pennsylvania Alley,80.5,9:19 AM
+648,10997 Northridge Plaza,24270 Ramsey Trail,74.7,3:55 PM
+649,55 Ryan Place,7481 Cody Plaza,72.7,1:55 AM
+650,058 Oxford Center,0 Farmco Pass,21.9,8:40 PM
+651,4451 Schurz Way,44393 Troy Avenue,18.4,3:37 AM
+652,8 Bowman Hill,7 Kingsford Crossing,38.9,11:14 PM
+653,2 Drewry Court,99315 Maple Wood Junction,22.3,2:29 AM
+654,6 Summer Ridge Point,87 Hagan Pass,71.6,4:07 AM
+655,3792 Golf Course Lane,67 Caliangt Court,47.4,2:22 AM
+656,4 Pine View Road,4 Melrose Road,6.0,10:11 AM
+657,78 Toban Center,72476 Annamark Way,31.0,5:03 AM
+658,7879 Eliot Plaza,06625 Sutherland Street,65.9,3:32 PM
+659,65999 Myrtle Plaza,7537 Shasta Avenue,68.2,7:06 PM
+660,6 Sunnyside Park,24541 Forest Dale Drive,28.5,1:57 PM
+661,30189 Pearson Alley,233 Shoshone Crossing,68.4,9:58 AM
+662,4684 Loeprich Point,37990 Village Green Pass,11.7,2:51 AM
+663,28 Michigan Way,94822 Dakota Avenue,56.7,11:59 AM
+664,248 Havey Junction,7351 Mendota Hill,18.7,8:05 AM
+665,742 Bultman Junction,1 Village Terrace,45.6,5:30 PM
+666,3023 Fieldstone Drive,67418 Mccormick Junction,69.6,4:07 PM
+667,8611 Killdeer Parkway,61889 Banding Center,27.7,9:36 PM
+668,80 Mockingbird Crossing,23555 Atwood Drive,75.2,1:16 PM
+669,35559 Pierstorff Road,91 Alpine Terrace,77.5,1:03 PM
+670,70787 Ruskin Crossing,9768 Sachtjen Point,54.8,8:39 PM
+671,7 Portage Court,64 Algoma Junction,52.0,4:37 PM
+672,23 Hanover Court,3310 Parkside Junction,61.8,8:57 AM
+673,82209 Cascade Trail,726 Holmberg Parkway,64.7,9:30 PM
+674,92 Daystar Parkway,31 Village Green Park,33.3,12:49 PM
+675,41 Bartillon Terrace,003 Garrison Parkway,14.0,10:24 PM
+676,48189 Continental Lane,6425 Toban Street,64.2,3:18 PM
+677,0649 Lerdahl Point,368 Sherman Court,46.6,3:35 AM
+678,4 Park Meadow Place,5341 3rd Center,46.2,10:23 PM
+679,360 Debra Terrace,9657 Hayes Junction,5.4,4:58 AM
+680,4 Hoffman Center,78898 Shoshone Trail,68.7,2:12 AM
+681,96311 Sage Court,68 Oneill Drive,14.3,1:44 AM
+682,907 Commercial Plaza,5487 Fordem Alley,59.3,7:13 AM
+683,4 Erie Avenue,48 Mendota Crossing,75.1,12:17 PM
+684,9 Tennessee Pass,79 Nobel Place,71.9,1:39 AM
+685,4 Parkside Point,53974 Oakridge Parkway,13.5,2:56 PM
+686,013 Birchwood Court,03717 Milwaukee Plaza,64.5,5:31 PM
+687,247 Mitchell Alley,78277 Toban Center,59.5,1:05 PM
+688,8111 Brentwood Hill,47569 Porter Crossing,52.4,8:13 AM
+689,658 Susan Parkway,0 Bultman Pass,53.3,3:35 AM
+690,523 Judy Avenue,8 Gateway Plaza,17.0,4:10 AM
+691,678 Union Park,87414 8th Road,61.4,7:18 AM
+692,752 Laurel Junction,947 Melvin Park,52.6,3:45 AM
+693,11537 Jay Crossing,9 Hazelcrest Drive,10.4,9:44 AM
+694,91953 Sutteridge Trail,9 Village Green Drive,23.0,6:40 PM
+695,3 Shasta Trail,8705 Mesta Park,73.8,1:15 AM
+696,91 Lake View Center,81 Acker Center,48.1,3:21 AM
+697,08295 Farmco Avenue,267 Tony Way,32.8,6:10 AM
+698,19546 Katie Avenue,33442 Erie Way,16.3,1:16 PM
+699,22112 Lerdahl Point,15 Pankratz Way,26.2,8:36 AM
+700,81 Armistice Park,2848 North Alley,22.9,6:46 PM
+701,8995 Red Cloud Parkway,08 Cambridge Way,48.7,12:58 AM
+702,0362 Namekagon Place,061 Doe Crossing Lane,23.5,10:41 PM
+703,73956 Homewood Hill,260 Starling Court,31.2,6:20 AM
+704,3 Dryden Hill,0981 Prairieview Circle,34.3,8:10 AM
+705,25126 Buell Avenue,8 Katie Junction,46.5,1:46 PM
+706,0 Debs Plaza,33383 Northridge Terrace,76.7,8:52 AM
+707,671 Hermina Way,32139 Erie Drive,74.2,12:20 PM
+708,6969 Bellgrove Drive,80 Claremont Circle,10.7,5:20 AM
+709,74229 Scofield Street,42 Evergreen Point,78.5,2:01 AM
+710,9006 Calypso Trail,5 Straubel Way,78.4,10:49 AM
+711,2 Northfield Crossing,928 Victoria Street,67.6,2:38 AM
+712,67 Sullivan Point,695 Hazelcrest Crossing,80.3,1:38 PM
+713,61 Bunting Alley,7806 Northport Road,26.8,10:04 AM
+714,698 Mockingbird Center,096 Granby Park,27.1,5:23 AM
+715,4283 Vernon Plaza,37 Jay Alley,14.9,5:01 AM
+716,4310 Lake View Alley,12 Little Fleur Avenue,41.1,12:53 PM
+717,6394 Everett Street,4 Coolidge Pass,31.0,1:04 PM
+718,4273 Beilfuss Street,4815 Mandrake Circle,61.9,4:50 AM
+719,9167 Spohn Alley,8 Lakewood Gardens Court,20.4,11:42 PM
+720,14 Dakota Avenue,14627 Sutteridge Parkway,77.3,12:47 PM
+721,826 Helena Trail,9129 Kenwood Way,51.0,1:27 PM
+722,96 Ridgeview Trail,5 Loeprich Circle,16.2,9:26 AM
+723,302 Transport Circle,64 Northport Alley,69.6,8:49 PM
+724,8870 Upham Pass,24998 Brentwood Parkway,58.3,6:35 AM
+725,5 Jenifer Place,88813 Dixon Street,46.5,3:14 AM
+726,2778 3rd Plaza,0825 Ronald Regan Avenue,45.1,3:01 PM
+727,9815 Kenwood Trail,5 Westend Avenue,23.7,6:26 PM
+728,22971 Dennis Pass,925 Cottonwood Pass,79.2,12:56 PM
+729,420 Autumn Leaf Drive,7 Holmberg Parkway,55.0,5:32 AM
+730,11078 Gina Crossing,6 Briar Crest Lane,45.5,9:39 PM
+731,71 Annamark Crossing,774 Bluejay Way,68.4,12:39 AM
+732,63038 Darwin Court,828 Delladonna Circle,35.1,5:03 PM
+733,6 Forster Place,180 Anthes Road,73.0,1:14 PM
+734,71330 Burning Wood Circle,3600 Kingsford Junction,79.8,3:08 PM
+735,85491 Corscot Road,05465 Clyde Gallagher Pass,42.4,10:26 PM
+736,9372 Maple Wood Park,6 Gateway Terrace,12.4,3:13 AM
+737,09201 Stone Corner Street,023 Manley Court,4.9,5:02 PM
+738,64 Hayes Hill,67115 Sachs Avenue,16.7,11:39 AM
+739,01 Sutherland Street,3262 Waxwing Drive,15.3,5:49 PM
+740,51 Monterey Court,2 Vermont Hill,46.1,4:11 PM
+741,26 Karstens Center,12 Katie Plaza,49.9,6:02 PM
+742,36048 Lighthouse Bay Alley,6 Elmside Pass,56.0,4:43 PM
+743,05259 Heffernan Circle,24759 Nobel Parkway,61.7,10:55 PM
+744,0 Pankratz Parkway,5 Miller Parkway,21.6,10:55 PM
+745,62816 Nobel Crossing,138 Straubel Avenue,14.4,11:11 PM
+746,689 Starling Place,1341 Heath Point,11.1,10:50 AM
+747,4710 Melvin Point,5 Granby Circle,83.2,1:37 AM
+748,02379 Loomis Court,783 Atwood Center,52.4,8:43 PM
+749,6 Dwight Hill,3628 Glendale Avenue,21.7,4:41 AM
+750,3795 2nd Court,759 Autumn Leaf Way,84.2,10:04 PM
+751,14 Summit Lane,88 Magdeline Place,56.9,9:11 PM
+752,6400 Lyons Place,3 Armistice Trail,62.6,12:39 PM
+753,4850 Gulseth Avenue,95166 Longview Way,56.3,10:04 AM
+754,8 Lawn Pass,55652 Bartillon Hill,21.7,8:11 AM
+755,35 American Ash Avenue,4840 Bay Junction,22.2,7:02 AM
+756,445 Corscot Park,5270 Redwing Drive,8.1,10:44 AM
+757,362 Acker Parkway,0818 Bultman Hill,19.4,7:08 AM
+758,257 Milwaukee Drive,085 Lakewood Trail,68.6,8:50 PM
+759,7 Bluejay Point,3417 East Alley,78.0,4:47 PM
+760,90952 Lunder Lane,08109 Redwing Junction,67.1,10:38 PM
+761,908 Elka Point,09192 Orin Plaza,54.0,10:40 PM
+762,7086 Becker Crossing,8559 Anderson Junction,51.0,12:14 AM
+763,9937 Sutteridge Crossing,78003 Sugar Circle,70.0,3:43 AM
+764,9194 Bowman Pass,6938 Eliot Place,51.8,12:56 PM
+765,708 Straubel Crossing,52714 Cardinal Junction,12.7,10:08 AM
+766,42 Heath Parkway,9 Ridge Oak Center,68.7,11:27 PM
+767,709 Park Meadow Parkway,309 Sloan Drive,76.0,3:29 PM
+768,50974 Lawn Place,3 Ronald Regan Way,30.0,10:19 AM
+769,2333 Sugar Junction,3059 Sachs Road,13.1,10:50 AM
+770,899 Eagan Plaza,68087 Coleman Pass,27.6,2:25 AM
+771,10 Brown Street,7 Reindahl Center,25.3,5:52 AM
+772,85 Karstens Point,22 Fisk Street,14.5,5:31 PM
+773,4 Briar Crest Drive,8364 Green Crossing,21.3,12:13 PM
+774,81935 Glendale Place,2014 Acker Trail,3.3,3:54 PM
+775,16 Brown Place,7 Ludington Street,65.2,5:29 AM
+776,37291 Glacier Hill Pass,90869 Riverside Drive,65.4,8:08 PM
+777,0 Debra Plaza,86329 Hauk Pass,20.3,6:15 AM
+778,67 Rieder Place,58 Lukken Park,5.3,3:08 PM
+779,02782 Old Shore Lane,0 Sachtjen Junction,22.8,10:43 PM
+780,7 Eliot Hill,0 Anderson Trail,26.5,7:19 AM
+781,6 Waubesa Trail,4437 Sherman Road,38.4,2:04 PM
+782,0579 Hovde Crossing,41 Iowa Crossing,9.7,8:13 AM
+783,9 Bluejay Court,1 Bunting Lane,57.7,12:03 AM
+784,33487 Scott Place,51596 Hallows Junction,14.9,12:57 AM
+785,839 Swallow Hill,76055 Mcguire Road,62.3,12:32 PM
+786,99526 Lakewood Gardens Terrace,929 Utah Point,76.1,3:30 PM
+787,907 Cambridge Junction,9 Morningstar Plaza,71.8,9:51 PM
+788,0950 Westridge Lane,71274 Huxley Circle,41.2,9:28 AM
+789,4156 Michigan Center,848 Mariners Cove Road,41.9,2:38 PM
+790,7323 Hintze Place,96933 Londonderry Circle,45.3,5:19 AM
+791,48 Rowland Court,62 Crest Line Park,8.1,9:23 AM
+792,269 Summit Pass,41951 Oakridge Point,75.2,5:28 AM
+793,46351 Muir Trail,09813 Old Gate Point,6.0,7:57 AM
+794,7744 Duke Center,6 Butterfield Avenue,10.0,7:32 PM
+795,03685 Quincy Center,87832 Miller Terrace,10.6,3:14 AM
+796,9059 Mcguire Lane,975 Shopko Pass,63.8,11:41 AM
+797,315 North Trail,07 Melrose Junction,25.2,11:06 PM
+798,5547 Bay Pass,6 Fieldstone Park,48.0,2:32 PM
+799,74253 Union Alley,30 Lerdahl Lane,25.4,11:19 AM
+800,7 Valley Edge Park,26295 Glacier Hill Crossing,79.0,1:48 PM
+801,7703 Monterey Alley,447 Springs Plaza,49.5,1:36 PM
+802,3978 Homewood Crossing,54214 Hanover Road,80.0,4:08 PM
+803,9 Dapin Parkway,073 Valley Edge Terrace,8.6,2:20 PM
+804,256 Tomscot Center,8804 Weeping Birch Center,13.7,10:23 AM
+805,8278 Mccormick Avenue,00709 Hoepker Lane,37.2,2:37 PM
+806,9 Forest Dale Avenue,65 Onsgard Trail,28.0,2:22 AM
+807,9418 Manley Parkway,164 Crest Line Way,77.3,4:52 AM
+808,11 Lillian Plaza,66 Jenna Place,21.8,9:38 PM
+809,7 Summit Hill,63 Iowa Junction,34.1,4:49 AM
+810,6 Shopko Avenue,0348 Declaration Plaza,71.1,4:27 PM
+811,83512 Pine View Parkway,3 Pepper Wood Parkway,53.2,2:10 AM
+812,38175 Ohio Alley,2911 Express Circle,54.4,12:17 AM
+813,864 Farwell Point,5 Anhalt Terrace,40.4,6:46 AM
+814,765 Armistice Court,7 Helena Center,79.0,8:10 AM
+815,9869 Lien Hill,4 American Ash Park,24.3,2:25 PM
+816,5 Lakewood Alley,7 Loftsgordon Pass,19.5,3:09 PM
+817,0422 Delladonna Avenue,2195 Anzinger Point,67.9,2:54 PM
+818,56468 Bellgrove Center,793 Graceland Plaza,29.5,8:39 PM
+819,1 Esker Way,08 Bartillon Alley,22.6,2:59 PM
+820,54144 Bluestem Pass,1 Holy Cross Lane,59.1,4:35 AM
+821,9035 Canary Street,16170 Judy Center,82.2,6:33 PM
+822,79 Main Hill,20690 Esch Place,57.3,7:49 PM
+823,48622 Bellgrove Hill,96 Cambridge Point,43.0,12:54 PM
+824,7812 Chive Court,7119 Clyde Gallagher Way,68.0,6:30 PM
+825,629 Claremont Parkway,1715 Macpherson Pass,46.1,8:34 AM
+826,1 Heffernan Street,863 Derek Hill,83.9,1:00 AM
+827,094 Texas Court,43 Carpenter Hill,18.5,6:45 AM
+828,3 Eagle Crest Street,8 Shoshone Street,10.3,6:29 PM
+829,4 Colorado Pass,337 Dawn Way,70.2,2:04 AM
+830,178 Hudson Alley,98382 Miller Trail,38.4,1:19 AM
+831,7 Basil Terrace,1 Farwell Parkway,23.5,7:45 PM
+832,60087 Hallows Center,409 Boyd Drive,44.8,9:21 PM
+833,5 Buena Vista Drive,8836 Walton Avenue,21.1,8:37 PM
+834,5 Express Park,648 Browning Street,30.2,2:49 PM
+835,0 Stuart Park,2 Buhler Lane,65.9,6:11 AM
+836,12613 Redwing Pass,52 Gerald Way,73.2,2:58 AM
+837,53847 Esker Hill,2860 Sauthoff Avenue,6.7,1:23 PM
+838,158 Marcy Place,963 Lake View Way,14.5,7:52 AM
+839,83473 Kim Lane,4 Roth Way,44.8,11:36 AM
+840,59 Anthes Alley,22 Comanche Drive,65.1,4:18 AM
+841,8649 Melrose Court,21 Vernon Parkway,81.4,4:52 AM
+842,57 Grover Way,8798 Springs Circle,8.1,8:22 AM
+843,5842 Beilfuss Parkway,5998 Carey Place,80.3,10:20 PM
+844,63885 Hanson Avenue,98 Prairieview Court,44.4,6:43 AM
+845,8 Comanche Pass,9 Hudson Road,22.9,2:26 AM
+846,915 Scofield Road,4 Gateway Plaza,22.5,10:07 PM
+847,082 Delaware Parkway,9 West Park,17.3,2:22 AM
+848,11 John Wall Crossing,54 Green Place,23.3,1:17 AM
+849,2006 Prairie Rose Terrace,9 Stang Street,24.1,4:55 PM
+850,089 Gulseth Park,807 Caliangt Lane,48.9,11:46 AM
+851,117 Susan Pass,0 Sugar Point,44.8,3:20 AM
+852,13 Sullivan Plaza,88786 Dexter Hill,75.1,3:19 PM
+853,932 Tony Junction,243 Steensland Place,67.1,9:19 AM
+854,1 Chinook Hill,53 Service Way,23.1,2:23 AM
+855,3 Coleman Court,612 Red Cloud Parkway,74.0,2:43 AM
+856,2 Nancy Plaza,4823 Thierer Avenue,72.6,10:28 AM
+857,93626 Washington Pass,1079 Alpine Crossing,48.4,10:02 PM
+858,0 Elka Junction,1419 Kensington Drive,27.2,6:17 PM
+859,0580 Mendota Park,96 Nelson Hill,61.8,4:05 PM
+860,39 Bunting Center,556 Starling Parkway,81.6,2:57 PM
+861,5 Buena Vista Park,14 Ridgeview Place,15.9,2:30 AM
+862,91592 Brickson Park Drive,37342 Michigan Court,13.0,7:08 PM
+863,1 Susan Place,50 Kennedy Lane,62.5,5:56 AM
+864,274 Jackson Trail,195 Coleman Parkway,84.4,9:23 PM
+865,14 Sunbrook Crossing,36711 Miller Trail,31.2,9:38 PM
+866,71 Manitowish Center,7 Morrow Hill,21.2,5:23 PM
+867,31 Fuller Park,21149 Monica Park,14.2,10:30 AM
+868,3 Hauk Place,35130 Blackbird Plaza,8.2,5:33 AM
+869,481 Spaight Pass,4 Kedzie Parkway,34.0,7:54 PM
+870,3211 Ruskin Park,9 Kinsman Terrace,36.3,3:46 AM
+871,1 La Follette Road,9 Fuller Lane,4.6,3:26 AM
+872,9042 Carberry Junction,30790 Petterle Street,4.3,8:38 PM
+873,25351 Warrior Lane,7932 Schiller Hill,28.1,3:07 AM
+874,24902 Memorial Alley,6667 Talisman Center,14.9,1:52 PM
+875,0539 Pawling Hill,27 Walton Trail,41.0,8:06 PM
+876,71913 Waywood Road,7 Bluejay Place,32.4,11:18 PM
+877,0 Derek Place,1 Holmberg Center,30.9,5:27 PM
+878,274 Marquette Point,85 Harper Point,34.2,2:06 PM
+879,16 Calypso Trail,9401 Fulton Way,25.6,9:29 AM
+880,26054 Dennis Road,68678 Anzinger Drive,61.3,8:04 AM
+881,22 Pepper Wood Circle,20 Anzinger Plaza,24.3,9:26 AM
+882,72278 Butternut Trail,43 Northland Point,23.8,7:33 AM
+883,163 Bluestem Terrace,8163 Susan Place,48.1,10:39 AM
+884,33064 Express Center,9 Harper Pass,50.7,4:25 AM
+885,0 Eagan Junction,5 Nelson Road,71.7,2:06 PM
+886,1 Quincy Hill,364 Evergreen Hill,45.8,11:24 AM
+887,74295 Armistice Drive,2973 Reinke Drive,32.9,6:09 AM
+888,05312 Fordem Center,4 Eastlawn Center,52.5,5:43 AM
+889,457 Bayside Avenue,76995 Monument Terrace,77.7,12:14 PM
+890,3 Ryan Avenue,64952 Dapin Drive,4.0,4:09 PM
+891,93 Delaware Road,1411 Kenwood Plaza,32.1,6:16 PM
+892,5 Elka Center,53411 Boyd Avenue,73.7,4:47 AM
+893,65 Helena Way,3 Sachs Plaza,28.6,6:21 PM
+894,0 Hintze Drive,456 Delladonna Street,79.4,8:26 AM
+895,94513 Butterfield Street,167 Riverside Place,6.0,4:38 AM
+896,7 North Terrace,972 Caliangt Trail,22.6,8:08 PM
+897,3968 Roth Court,93797 Almo Trail,58.5,5:04 PM
+898,3 Southridge Place,12 Paget Way,49.8,1:13 AM
+899,0117 Jenna Plaza,726 Packers Hill,41.9,7:21 AM
+900,6 Rutledge Hill,239 Bartelt Plaza,34.5,8:05 AM
+901,600 Canary Trail,4199 Oakridge Court,7.4,6:32 PM
+902,47 Onsgard Way,6039 Warbler Court,10.8,4:42 PM
+903,58453 Sunnyside Place,45967 Ludington Place,74.8,9:17 AM
+904,66 Northridge Park,32 Brentwood Park,39.0,7:48 AM
+905,18 Kensington Center,3360 Anthes Way,19.3,9:20 PM
+906,72173 Pleasure Court,26481 Gina Road,65.6,8:00 PM
+907,1670 Holy Cross Plaza,1108 Everett Alley,56.5,6:21 AM
+908,77 Swallow Point,5076 Troy Place,49.4,10:59 AM
+909,89195 Petterle Lane,67 Gateway Parkway,3.3,11:53 AM
+910,84201 Artisan Center,8016 Hudson Trail,54.9,5:46 PM
+911,5 Gale Junction,73 Mendota Plaza,68.6,7:28 AM
+912,703 Huxley Junction,50832 Butternut Way,59.1,1:59 PM
+913,16245 Sage Circle,75187 Buell Circle,28.1,7:29 PM
+914,232 Corben Trail,7497 Hoepker Circle,13.9,12:41 PM
+915,26267 Hooker Park,0 Holmberg Trail,14.0,9:59 PM
+916,388 Scoville Drive,0 Haas Circle,3.8,10:14 PM
+917,8 Killdeer Lane,351 Fallview Street,20.8,1:29 AM
+918,04834 Northport Point,58 Delaware Parkway,25.8,6:00 PM
+919,7 Milwaukee Lane,1614 Esker Street,42.4,1:44 AM
+920,9 Lukken Center,40427 Lakeland Circle,28.6,9:04 PM
+921,7 Elka Trail,45356 Pierstorff Place,55.9,3:07 AM
+922,102 Eggendart Park,98 International Court,22.3,10:45 PM
+923,09 Heffernan Parkway,71 Lyons Alley,24.2,3:16 PM
+924,09 Larry Park,66951 Nevada Junction,14.3,9:15 AM
+925,719 Merry Trail,7 Kings Road,10.5,4:07 AM
+926,1 Prairie Rose Court,06 Bartillon Point,78.5,3:56 PM
+927,53077 Hanover Way,80230 Bultman Crossing,33.6,7:25 PM
+928,1 Gale Place,63806 Lake View Hill,77.7,7:09 AM
+929,14 Elgar Court,40 Surrey Lane,44.0,8:27 PM
+930,7814 Oxford Hill,45626 Killdeer Drive,20.0,12:32 AM
+931,234 Clemons Road,43433 Dorton Park,73.9,2:58 AM
+932,7724 Kropf Pass,67 Mallard Avenue,17.6,8:10 AM
+933,2 Lindbergh Circle,209 Anhalt Trail,64.5,10:09 AM
+934,0 Mcbride Pass,845 Rockefeller Pass,62.0,9:59 AM
+935,2 West Hill,0374 Express Crossing,11.5,12:38 PM
+936,28549 Sage Point,11576 Jackson Trail,39.4,5:28 PM
+937,54939 American Place,9 Hollow Ridge Street,9.8,12:52 PM
+938,68687 Sommers Park,3626 Warner Drive,66.6,9:12 PM
+939,7 Meadow Ridge Avenue,27738 Eastlawn Plaza,37.0,11:54 PM
+940,16 Myrtle Drive,77054 Truax Avenue,46.0,3:39 AM
+941,82875 Dottie Lane,0255 Bartelt Plaza,40.8,2:40 PM
+942,5478 Rieder Lane,525 Anniversary Drive,17.6,12:45 AM
+943,0 Buena Vista Center,4 Stang Alley,50.8,9:27 AM
+944,226 Eggendart Park,0 Mifflin Trail,36.6,11:04 PM
+945,20 Haas Avenue,1144 Golf View Lane,3.5,3:07 AM
+946,7876 Mariners Cove Hill,12 Sloan Pass,73.9,5:34 AM
+947,506 Sunfield Junction,66330 Nobel Road,67.4,3:35 AM
+948,562 Hoffman Crossing,40 Steensland Circle,7.9,7:03 AM
+949,9018 Riverside Road,24 Porter Street,78.3,5:32 AM
+950,8 Monica Hill,2 Clyde Gallagher Alley,17.8,4:11 PM
+951,04797 Dahle Hill,2 Warner Plaza,25.9,8:53 PM
+952,743 Armistice Trail,28 Ilene Place,6.1,2:02 PM
+953,92892 Ilene Circle,5 Leroy Hill,3.7,12:37 AM
+954,699 Tennessee Alley,58278 Meadow Valley Point,15.3,8:00 AM
+955,30 Mandrake Hill,4849 Susan Trail,76.4,1:53 PM
+956,862 Truax Center,94275 4th Avenue,7.2,5:01 AM
+957,2 Independence Trail,36169 Northland Way,50.7,1:37 PM
+958,78848 Myrtle Drive,11830 Main Alley,67.5,10:13 AM
+959,3 Oneill Circle,92 Loftsgordon Road,78.5,9:45 PM
+960,3694 Marcy Park,43 Lotheville Lane,2.9,2:14 PM
+961,36981 Graedel Avenue,36283 Sachs Alley,63.1,10:26 AM
+962,45 Canary Hill,8233 Quincy Crossing,84.6,2:54 PM
+963,4781 Westridge Court,15424 Harper Trail,22.5,3:53 PM
+964,53674 Grasskamp Park,6 Maryland Junction,34.4,9:40 AM
+965,2 Daystar Lane,4478 Randy Crossing,5.9,9:13 PM
+966,26 Melby Hill,9 Service Street,51.2,9:48 AM
+967,65 Luster Way,4647 Sachtjen Park,25.5,12:47 AM
+968,8 Brown Pass,077 Corben Plaza,52.6,4:05 AM
+969,771 East Terrace,4630 Bellgrove Crossing,51.5,11:15 PM
+970,99285 Aberg Junction,6461 Crest Line Alley,15.9,5:42 AM
+971,58900 Swallow Avenue,8 Haas Road,47.0,10:29 PM
+972,0572 Victoria Park,3524 Burrows Junction,41.3,1:38 AM
+973,00 Bluejay Court,8 Esker Plaza,48.2,10:40 AM
+974,675 Springs Parkway,406 Reindahl Pass,47.3,12:02 PM
+975,07869 Fremont Alley,3634 Crescent Oaks Place,74.1,8:38 PM
+976,52170 Sunbrook Street,058 Fair Oaks Terrace,22.7,11:44 PM
+977,899 Jenifer Parkway,70651 Artisan Street,16.4,7:58 PM
+978,93 Kedzie Plaza,19419 Oak Alley,69.1,8:18 AM
+979,809 Comanche Center,05654 Mifflin Avenue,57.4,3:09 PM
+980,18 Daystar Circle,79 Artisan Parkway,28.1,8:29 PM
+981,66 Sutherland Court,3014 Brown Lane,31.7,8:13 PM
+982,829 Barnett Center,562 Sloan Court,26.2,9:37 AM
+983,75 Pankratz Alley,62 Briar Crest Center,44.2,3:21 PM
+984,16 Carpenter Place,32153 Mifflin Point,26.6,5:27 AM
+985,58 Morrow Terrace,72 Karstens Avenue,56.6,8:39 PM
+986,8 Burning Wood Crossing,12608 Heath Drive,6.8,2:29 AM
+987,13 Bellgrove Trail,2842 Charing Cross Avenue,75.1,11:09 AM
+988,3188 David Drive,08 Sage Crossing,6.3,6:39 AM
+989,7665 Dexter Parkway,40 Rigney Point,61.6,2:59 AM
+990,49790 Fisk Park,0224 Bartelt Pass,40.8,3:53 AM
+991,1 Eastwood Point,7017 Haas Terrace,54.8,3:01 AM
+992,631 Merry Crossing,3276 Meadow Ridge Terrace,14.3,6:38 AM
+993,7 Jenna Terrace,01 Clove Road,18.6,7:20 AM
+994,3906 Brentwood Circle,6 North Parkway,54.9,1:27 AM
+995,2 Eastlawn Street,89 Myrtle Crossing,51.2,1:49 PM
+996,9570 Kinsman Street,86 Maple Wood Way,57.4,9:48 AM
+997,4 Nelson Parkway,51 Texas Trail,35.7,2:43 PM
+998,3 Gerald Lane,7 Michigan Court,63.0,11:09 PM
+999,53 Dixon Alley,94237 Del Sol Court,56.9,8:19 AM
+1000,7 Petterle Trail,277 Saint Paul Point,83.1,10:50 PM
